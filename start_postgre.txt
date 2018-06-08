@@ -1,3 +1,0 @@
-abcd
-
-D:\postgres\postgresql-9.6.4-1-windows-x64-binaries\pgsql\bin\pg_ctl.exe start -D D:\postgres\postgresql-9.6.4-1-windows-x64-binaries\pgsql\data -l D:\postgres\postgresql-9.6.4-1-windows-x64-binaries\pgsql\log\pglog.log   
